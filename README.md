@@ -1,2 +1,3 @@
 # xcolor-bin
-just for other distros
+
+a built binary for [xcolor](https://github.com/Soft/xcolor)
